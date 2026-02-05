@@ -1,6 +1,4 @@
-Absolutely, Alhaji — here is a clean, professional, cinematic‑systems README tailored to your multi‑page portfolio now live on GitHub.
-It’s structured, recruiter‑friendly, developer‑friendly, and aligned with the design language you’ve built.
-You can paste this directly into your repository’s .
+=
 
 🌌 DZ Alchemy — Multi‑Page Cinematic Portfolio
 A modular, multi‑page portfolio engineered for clarity, performance, and cinematic interaction.
